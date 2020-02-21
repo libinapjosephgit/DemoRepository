@@ -16,4 +16,4 @@ rxcvbnm,
 tcvbnm,
 rftygui
 
-Libina P Joseph
+Libina
